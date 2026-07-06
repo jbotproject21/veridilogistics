@@ -5,8 +5,11 @@ This project analyzes delivery performance for Veridi Logistics using order, cus
 The analysis focuses on operational efficiency, regional disparities, and customer experience impact.
 
 Project Links
+
 Link to Notebook: https://github.com/jbotproject21/veridilogistics/blob/main/delivery_audit.ipynb
+
 Link to Dashboard: https://app.powerbi.com/links/P7L7JqBsHz?ctid=d8212727-8a62-4c55-9cdb-863a951cc9c3&pbi_source=linkShare
+
 Link to Presentation: 
 
 ## Key Insights
