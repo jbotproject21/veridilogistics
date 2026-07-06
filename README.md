@@ -10,7 +10,7 @@ Link to Notebook: https://github.com/jbotproject21/veridilogistics/blob/main/del
 
 Link to Dashboard: https://app.powerbi.com/links/P7L7JqBsHz?ctid=d8212727-8a62-4c55-9cdb-863a951cc9c3&pbi_source=linkShare
 
-Link to Presentation: 
+Link to Presentation: https://docs.google.com/presentation/d/1_HQG17gh5BRkWcGdrjVnvOkwa5ZcRJZA/edit?rtpof=true&sd=true
 
 ## Key Insights
 * A significant portion of orders are delivered late, with delays varying widely across regions.
